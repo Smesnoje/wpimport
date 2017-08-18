@@ -1,0 +1,9 @@
+{
+    "woocommerce_currency_pos": "left",
+    "woocommerce_default_country": "RS",
+    "woocommerce_force_ssl_checkout": "no",
+    "woocommerce_logout_endpoint": "customer-logout",
+    "woocommerce_manage_stock": "yes",
+    "woocommerce_myaccount_delete_payment_method_endpoint": "delete-payment-method",
+    ".label": "bla"
+}
